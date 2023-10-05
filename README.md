@@ -1,4 +1,5 @@
-<img src = "https://github.com/Prompt-Whisperer/Prompt-Whisperer/assets/135996715/0227e30b-b33c-42b6-86b1-0cf7ef597c22" width=25% hieght=25%><br>
+<img src = "https://github.com/Prompt-Whisperer/Prompt-Whisperer/assets/135996715/0227e30b-b33c-42b6-86b1-0cf7ef597c22" width='25%' height='25%' style="border: 5px solid black;">
+
 ### Jay Risser - The Prompt Whisperer
 ---
 Whether you are working with chatbots like ChatGPT, Google Bard, the new Bing, or AlpineGate, or if you prefer working with Python and PyTorch on platforms like Jupyter notebooks, this portfolio has got you covered.
