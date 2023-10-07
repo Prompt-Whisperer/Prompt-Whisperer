@@ -1,4 +1,4 @@
-<img src = "https://github.com/Prompt-Whisperer/Prompt-Whisperer/assets/135996715/0227e30b-b33c-42b6-86b1-0cf7ef597c22" width='25%' height='25%' style="border: 5px solid black;">
+<img src = "https://github.com/Prompt-Whisperer/Prompt-Whisperer/assets/135996715/d620bd8b-d629-48f7-946b-c3d043044025" width='25%' height='25%'>
 
 ### Jay Risser - The Prompt Whisperer
 ---
